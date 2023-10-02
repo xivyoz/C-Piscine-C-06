@@ -9,7 +9,6 @@ Ce document est le sujet du module C 06 de la piscine C de 42, version 7.3.
 4. [Exercice 01 : ft_print_params](#exercice-01-ft_print_params)
 5. [Exercice 02 : ft_rev_params](#exercice-02-ft_rev_params)
 6. [Exercice 03 : ft_sort_params](#exercice-03-ft_sort_params)
-7. [Rendu et peer-évaluation](#rendu-et-peer-évaluation)
 
 ## Consignes
 - Seule cette page servira de référence : ne vous fiez pas aux bruits de couloir.
