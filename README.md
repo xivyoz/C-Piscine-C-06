@@ -66,11 +66,4 @@ Dialogue issu du film The Big Lebowski : [...]
 - Vous devez afficher tous les arguments, sauf argv[0].
 - Un argument par ligne.
 
-## Rendu et peer-évaluation
-
-Rendez votre travail sur votre dépôt Git comme d'habitude. Seul le travail présent
-sur votre dépôt sera évalué en soutenance. Vérifiez bien les noms de vos dossiers et de
-vos fichiers afin que ces derniers soient conformes aux demandes du sujet.
-
-Vous ne devez rendre uniquement les fichiers demandés par le sujet de
-ce projet.
+Note : Assurez-vous de bien nommer vos fichiers et répertoires conformément aux exigences du sujet et de suivre les consignes de rendu.
